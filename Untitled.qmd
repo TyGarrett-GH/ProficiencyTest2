@@ -41,5 +41,7 @@ for (i in 1:nrow(mtcars)) {
 # The code printed 4 rows of cars that had a disp greater than
 # or equal to 150. 
 ```
-
 ## Task 3
+Masking functions involves using functions such as eval: FALSE or echo: FALSE to mask other functions' output to make the rendered document "clean" and more readable. 
+
+
