@@ -1,0 +1,11 @@
+---
+title: "ProfiencyTest2"
+format: pdf
+editor: visual
+---
+```{r}
+for (i in 1:3) {
+  print(mtcars$mpg[i])
+}
+```
+
